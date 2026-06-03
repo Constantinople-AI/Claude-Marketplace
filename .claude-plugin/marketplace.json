@@ -21,7 +21,7 @@
       "name": "test-plugin-marketplace",
       "source": "./plugins/test-plugin-marketplace",
       "description": "Test plugin with hello-world and last-slack-message skills",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Constantinople AI"
       },
@@ -32,7 +32,7 @@
       "name": "test2-plugin2-marketplace1",
       "source": "./plugins/test2-plugin2-marketplace1",
       "description": "Test plugin with jira-my-tickets and tell-me-a-joke skills",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Constantinople AI"
       },
