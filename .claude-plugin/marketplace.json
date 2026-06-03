@@ -27,6 +27,17 @@
       },
       "category": "testing",
       "keywords": ["test", "hello-world", "slack"]
+    },
+    {
+      "name": "test2-plugin2-marketplace1",
+      "source": "./plugins/test2-plugin2-marketplace1",
+      "description": "Test plugin with jira-my-tickets and tell-me-a-joke skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Constantinople AI"
+      },
+      "category": "testing",
+      "keywords": ["test", "jira", "joke"]
     }
   ]
 }
